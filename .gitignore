@@ -1,0 +1,12 @@
+**__pycache__**
+/.venv
+/.git
+/.idea
+/temp
+*.env
+*.DS_Store
+**.log
+**tar.gz
+/venv/
+db_volume
+rabbitmq/
